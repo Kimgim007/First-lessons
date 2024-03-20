@@ -9,8 +9,7 @@
             string nameUser = Console.ReadLine();
             Console.Clear();
             Console.WriteLine($"Hello {nameUser}") ;
-            Console.WriteLine($"Hello {nameUser}"); Console.WriteLine($"Hello {nameUser}"); Console.WriteLine($"Hello {nameUser}"); Console.WriteLine($"Hello {nameUser}"); Console.WriteLine($"Hello {nameUser}"); Console.WriteLine($"Hello {nameUser}"); Console.WriteLine($"Hello {nameUser}"); Console.WriteLine($"Hello {nameUser}");
-
+       
             Console.WriteLine("Hello !");
         }
     }
