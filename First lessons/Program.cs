@@ -9,7 +9,7 @@
             string nameUser = Console.ReadLine();
             Console.Clear();
             Console.WriteLine($"Hello {nameUser}") ;
-            Console.WriteLine("Say Hello One");
+            Console.WriteLine("Say Hello Two");
             Console.WriteLine("Hello !");
         }
     }
